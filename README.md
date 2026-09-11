@@ -1,20 +1,18 @@
 <div align="center">
 
-<samp>桜 · 静 · 創</samp>
-
 # prfctcondition
 
 <em>「 crafting focused desktop software, native utilities & soundscapes with native precision 」</em>
 
 `windows` · `c++` · `c#` · `electron` · `typescript` · `python` · `ai-augmented`
 
-<a href="https://zen-zakura.pages.dev">zen zakura</a> ◈ <a href="https://github.com/prfctcondition/otofy">otofy</a> ◈ <a href="#craft">projects</a> ◈ <a href="#manifesto">manifesto</a>
+<a href="https://zen-zakura.pages.dev">zen zakura</a> · <a href="https://github.com/prfctcondition/otofy">otofy</a> · <a href="#craft">projects</a> · <a href="#manifesto">manifesto</a>
 
 </div>
 
 ---
 
-<h3 id="manifesto">桜 · manifesto & philosophy</h3>
+<h3 id="manifesto">manifesto · philosophy</h3>
 
 independent engineer building native windows software with zero bloat. i believe convenience, seamless tools, and music are fundamental human rights — as essential as air and food. software shouldn't gatekeep comfort or rent-seek on sound; it should serve freely and quietly. otofy was born directly from this conviction.
 
@@ -24,7 +22,7 @@ i leverage modern ai as an unapologetic force multiplier. architectural taste, s
 
 ---
 
-<h3 id="craft">◈ selected craft</h3>
+<h3 id="craft">· selected craft</h3>
 
 | project | stack | essence & key highlight |
 | :--- | :--- | :--- |
@@ -35,7 +33,7 @@ i leverage modern ai as an unapologetic force multiplier. architectural taste, s
 
 ---
 
-<h3 id="toolbox">職人 · toolbox</h3>
+<h3 id="toolbox">· toolbox</h3>
 
 ```text
 systems   · c++, c# (.net 9), win32 api, input hooks, low-level timing
@@ -47,7 +45,7 @@ audio/ai  · web audio api, ffmpeg, modern ai models, agentic workflows
 
 <div align="center">
 
-<samp>─── 静けさの中に、力がある ───</samp>  
-<sub>in stillness, there is strength · zero bloat, pure focus</sub>
+<samp>─── 簡潔さの中に、美がある ───</samp>  
+<sub>in simplicity, there is beauty · zero bloat, pure focus</sub>
 
 </div>
