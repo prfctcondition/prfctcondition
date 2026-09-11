@@ -6,7 +6,7 @@
 
 `windows` · `c++` · `c#` · `electron` · `typescript` · `python` · `ai-augmented`
 
-<a href="https://zen-zakura.pages.dev">zen zakura</a> · <a href="https://prfctcondition.github.io/otofy/">otofy</a> · <a href="#craft">projects</a> · <a href="#manifesto">manifesto</a>
+<a href="https://zen-zakura.pages.dev">zen zakura</a> · <a href="https://prfctcondition.github.io/otofy/">otofy</a> · <a href="#craft">projects</a> · <a href="#manifesto">manifesto</a> · <a href="https://ko-fi.com/prfctcondition">support</a>
 
 </div>
 
@@ -44,6 +44,11 @@ audio/ai  · web audio api, ffmpeg, modern ai models, agentic workflows
 ---
 
 <div align="center">
+
+<sub>if my craft brought quiet ease or music to your days, a humble cup of tea is received with deep gratitude</sub>  
+<samp>› <a href="https://ko-fi.com/prfctcondition">ko-fi.com/prfctcondition</a></samp>
+
+<br /><br />
 
 <samp>─── 簡潔さの中に、美がある ───</samp>  
 <sub>in simplicity, there is beauty · zero bloat, pure focus</sub>
