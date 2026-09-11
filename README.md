@@ -14,7 +14,7 @@
 
 <br />
 
-<a href="https://zen-zakura.pages.dev">zen zakura</a> ◈ <a href="https://github.com/prfctcondition/otofy">otofy</a> ◈ <a href="#selected-craft">projects</a> ◈ <a href="#philosophy">philosophy</a>
+<a href="https://zen-zakura.pages.dev">zen zakura</a> ◈ <a href="https://github.com/prfctcondition/otofy">otofy</a> ◈ <a href="#craft">projects</a> ◈ <a href="#philosophy">philosophy</a>
 
 <br />
 
@@ -24,95 +24,63 @@
 
 <h3 id="about">桜 · about</h3>
 
-independent software craftsman building focused desktop applications, low-level windows utilities, and minimalist tools. obsessed with performance, zero bloat, instant response times, and distraction-free visual design.
-
-everything here is crafted with native precision — from low-level win32 input hooks and real-time audio pipelines to clean, elegant user interfaces.
+independent engineer crafting native windows desktop software and low-level utilities with zero bloat. focused on raw execution speed, deterministic performance, and distraction-free interfaces. human intent directed at system-level craftsmanship.
 
 ---
 
-<h3 id="philosophy">✧ philosophy & ai-augmented craft</h3>
+<h3 id="philosophy">✧ philosophy & ai</h3>
 
-i build software using modern ai models as an active force multiplier.
+i leverage modern ai models as an unapologetic force multiplier. deep systems intuition, win32 architecture, and interface design remain strictly human — ai simply collapses the iteration cycle, enabling solo engineering at ten times the velocity.
 
-i don't hide this — i embrace it with confidence. combining solid systems thinking, low-level architecture design, and human intuition with state-of-the-art ai allows me to explore ideas rapidly, write complex native code, and ship polished end-to-end products at ten times the speed.
-
-```text
-  ┌────────────────────────────────────────────────────────┐
-  │  human vision & architectural taste                    │
-  │  ✕ state-of-the-art ai acceleration                    │
-  │  = high-velocity engineering with zero compromises    │
-  └────────────────────────────────────────────────────────┘
-```
-
-> 「 human intent directs the craft · machine intelligence accelerates the flow 」
+> 「 human vision directs the craft · machine intelligence accelerates the flow 」
 
 ---
 
-<h3 id="selected-craft">◈ selected craft</h3>
+<h3 id="craft">◈ selected craft</h3>
 
-#### 01. [otofy](https://github.com/prfctcondition/otofy)
-> *desktop streaming music client & offline audio player*
-- **stack**: electron · react · typescript · web audio api · ffmpeg · tailwind css
-- **overview**: privacy-first, zero-bloat desktop music player with dual-engine catalog streaming from youtube music and soundcloud. zero audio ads, zero telemetry, no account required.
-- **key elements**:
-  - proprietary streaming bypass protocol for anti-bot resilience and uninterrupted playback
-  - bidirectional cloud playlist synchronization with tombstone protection
-  - hardware-accelerated 10-band graphic equalizer (32hz to 16khz) powered by web audio api biquad filters
-  - universal interactive synced lyrics with millisecond click-to-seek karaoke playback
-  - concurrent ffmpeg batch playlist downloader with embedded id3v2 tags and 500x500 album artwork
-  - local audio scanner indexing `.mp3`, `.flac`, `.opus`, `.m4a`
+#### [otofy](https://github.com/prfctcondition/otofy)
+*privacy-first streaming client & offline audio engine*
+- **stack**: electron · react · typescript · web audio api
+- **essence**: zero-ad desktop player streaming from youtube music & soundcloud without accounts or telemetry.
+- **engineering**: proprietary anti-bot bypass protocol, 10-band hardware graphic eq, and sub-second synced lyrics.
 
-#### 02. [zen zakura](https://zen-zakura.pages.dev) · [v1 repo](https://github.com/prfctcondition/zen-zakura-macro)
-> *keyboard macro recorder & playback ecosystem for windows*
-- **stack**: c# (.net 9) · c++ · win32 api · wpf · saas
-- **overview**: an elegant keyboard macro recorder and playback engine inspired by japanese minimalist aesthetics. combines a native c++ low-level hook core (`wh_keyboard_ll`, `queryperformancecounter`, `sendinput`) with a clean wpf interface.
-- **evolution**:
-  - the visible public repository is the v1 foundation — open for anyone to explore, study, and inspect the low-level hook engine and architecture
-  - the project has since evolved into a full standalone saas product with cloud accounts, extended capabilities, and an upcoming payment gateway
-  - live website: [zen-zakura.pages.dev](https://zen-zakura.pages.dev)
+#### [zen zakura](https://zen-zakura.pages.dev) · [v1](https://github.com/prfctcondition/zen-zakura-macro)
+*keyboard macro recorder & automation ecosystem*
+- **stack**: c# (.net 9) · c++ · win32 api · wpf
+- **essence**: elegant windows macro engine combining a low-level native core with a japanese minimalist ui.
+- **evolution**: the public v1 build serves as an open architecture study; now evolved into a production saas with upcoming payments.
 
-#### 03. [dfn configurator](https://github.com/prfctcondition/dfn-configurator)
-> *standalone gui configurator for elden ring modding*
+#### [dfn configurator](https://github.com/prfctcondition/dfn-configurator)
+*standalone modding utility for elden ring*
 - **stack**: python · tkinter · pyinstaller
-- **overview**: a zero-dependency portable desktop utility for configuring the "deflect me not" mod for elden ring.
-- **key elements**:
-  - parses 32,000+ lines of `c0000.hks` script while keeping non-target code untouched
-  - visual control over 78 parameters across 10 sections with inline tooltips extracted from source comments
-  - automatic path detection for desktop and steam directories with automatic `.bak` backups before every write
+- **essence**: zero-dependency portable gui for configuring the "deflect me not" combat mod.
+- **engineering**: parses 32,000+ lines of hks action script with zero external dependencies and safe `.bak` writes.
 
-#### 04. [rcs2](https://github.com/prfctcondition/rcs2)
-> *windows desktop automation & recoil control utility*
+#### [rcs2](https://github.com/prfctcondition/rcs2)
+*desktop input automation & trajectory utility*
 - **stack**: python · pyqt5 · win32 api
-- **overview**: a lightweight desktop utility and movement system for counter-strike 2.
-- **key elements**:
-  - low-level windows api polling (`getasynckeystate`) for reliable trigger detection
-  - full support for mouse side buttons, scroll wheel binds, and custom trajectory simulation
-  - dark minimalist overlay-friendly pyqt interface
+- **essence**: lightweight counter-strike 2 recoil compensation tool in a minimal dark overlay.
+- **engineering**: low-level win32 polling (`getasynckeystate`) with native mouse side-button & wheel bindings.
 
 ---
 
-<h3 id="toolbox">職人 · toolbox & domains</h3>
+<h3 id="toolbox">職人 · toolbox</h3>
 
 ```text
-languages    · c++, c# (.net 9), typescript, javascript, python, powershell
-desktop      · wpf, electron, react, pyqt5, tailwind css
-systems      · win32 api, input hooks (wh_keyboard_ll), p/invoke, high-res timers
-audio        · web audio api (biquad filters), ffmpeg, audio metadata engines
-co-pilot     · claude, gemini, cursor / agy, agentic workflows
+systems   · c++, c# (.net 9), win32 api, input hooks, low-level timing
+desktop   · electron, react, typescript, wpf, pyqt5, tailwind css
+audio     · web audio api, ffmpeg, real-time filters & metadata engines
+workflow  · modern ai models, deep reasoning, powershell, git
 ```
 
 ---
 
 <div align="center">
 
-```text
-      ─── 静けさの中に、力がある ───
-  in stillness, there is strength · zero bloat, pure focus
-```
-
 <br />
 
-<sub>crafted by prfctcondition · driven by human taste & machine intelligence</sub>
+<samp>─── 静けさの中に、力がある ───</samp>  
+<sub>in stillness, there is strength · zero bloat, pure focus</sub>
 
 <br />
 
