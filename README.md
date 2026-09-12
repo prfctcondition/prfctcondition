@@ -6,7 +6,7 @@
 
 `windows` · `c++` · `c#` · `electron` · `typescript` · `python` · `ai-augmented`
 
-<a href="https://zen-zakura.pages.dev">zen zakura</a> · <a href="[https://github.com/prfctcondition/otofy">otofy</a> · <a href="#craft">projects</a> · <a href="#manifesto">manifesto</a> · <a href="https://ko-fi.com/prfctcondition">support</a>
+<a href="https://zen-zakura.pages.dev">zen zakura</a> · [otofy](https://github.com/prfctcondition/otofy) · <a href="#craft">projects</a> · <a href="#manifesto">manifesto</a> · <a href="https://ko-fi.com/prfctcondition">support</a>
 
 </div>
 
