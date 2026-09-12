@@ -28,8 +28,6 @@ i leverage modern ai as an unapologetic force multiplier. architectural taste, s
 | :--- | :--- | :--- |
 | [otofy](https://prfctcondition.github.io/otofy/) · [repo](https://github.com/prfctcondition/otofy) | `electron` `react` `ts` `web audio` | privacy-first yt/sc streaming with bypass protocol, 10-band hardware eq & sub-second synced lyrics |
 | [zen zakura](https://zen-zakura.pages.dev) · [v1](https://github.com/prfctcondition/zen-zakura-macro) | `c#` `c++` `win32` `wpf` | low-level macro engine; v1 open for study, now evolved into standalone saas with upcoming payments |
-| [dfn configurator](https://github.com/prfctcondition/dfn-configurator) | `python` `tkinter` `pyinstaller` | zero-dependency portable gui parsing 32k lines of elden ring hks script with safe `.bak` writes |
-| [rcs2](https://github.com/prfctcondition/rcs2) | `python` `pyqt5` `win32 api` | cs2 recoil & input utility with low-level polling (`getasynckeystate`) and mouse side-button binds |
 
 ---
 
