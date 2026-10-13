@@ -4,9 +4,9 @@
 
 <em>「 crafting focused desktop software, native utilities & soundscapes with native precision 」</em>
 
-`windows` · `c++` · `c#` · `electron` · `typescript` · `python` · `ai-augmented`
+`windows` · `rust` · `c++` · `c#` · `electron` · `typescript` · `python` · `ai-augmented`
 
-<a href="https://zen-zakura.pages.dev">zen zakura</a> · [otofy](https://github.com/prfctcondition/otofy) · <a href="#craft">projects</a> · <a href="#manifesto">manifesto</a> · <a href="https://ko-fi.com/prfctcondition">support</a>
+<a href="https://zen-zakura.pages.dev">zen zakura</a> · [zen gamma](https://github.com/prfctcondition/zen-gamma) · [league unlagged](https://github.com/prfctcondition/league-unlagged) · [otofy](https://github.com/prfctcondition/otofy) · <a href="#craft">projects</a> · <a href="#manifesto">manifesto</a> · <a href="https://ko-fi.com/prfctcondition">support</a>
 
 </div>
 
@@ -22,20 +22,30 @@ i leverage modern ai as an unapologetic force multiplier. architectural taste, s
 
 ---
 
+<h3 id="ecosystem">the zen ecosystem · unified desktop precision</h3>
+
+an interconnected ecosystem of focused, zero-bloat windows software engineered for competitive gamers, creators, and power users alike. whether isolating cpu cores to eliminate micro-stutter in fast-paced games, piercing pitch-black night raids via hardware display lut curves in tarkov and dayz, or streaming soundscapes in high-fidelity—the zen suite unifies essential tools into one lightweight, telemetry-free experience.
+
+> 「 clarity in darkness, precision in silicon, stillness in focus 」
+
+---
+
 <h3 id="craft">· selected craft</h3>
 
 | project | stack | essence & key highlight |
 | :--- | :--- | :--- |
-| [otofy](https://prfctcondition.github.io/otofy/) · [repo](https://github.com/prfctcondition/otofy) | `electron` `react` `ts` `web audio` | privacy-first yt/sc streaming with bypass protocol, 10-band hardware eq & sub-second synced lyrics |
+| [zen gamma](https://github.com/prfctcondition/zen-gamma) | `rust` `slint` `win32 gdi` | zero-overhead hardware LUT display calibration, per-channel RGB split gamma & active-tab hotkeys |
+| [league unlagged](https://github.com/prfctcondition/league-unlagged) | `rust` `egui` `win32 kernel` | hardware-adaptive CPU core isolation, SMT thread partitioning & PCIe MSI interrupt offloading |
 | [zen zakura](https://zen-zakura.pages.dev) · [v1](https://github.com/prfctcondition/zen-zakura-macro) | `c#` `c++` `win32` `wpf` | low-level macro engine; v1 open for study, now evolved into standalone saas with upcoming payments |
+| [otofy](https://github.com/prfctcondition/otofy) | `electron` `react` `ts` `web audio` | privacy-first yt/sc streaming with bypass protocol, 10-band hardware eq & sub-second synced lyrics |
 
 ---
 
 <h3 id="toolbox">· toolbox</h3>
 
 ```text
-systems   · c++, c# (.net 9), win32 api, input hooks, low-level timing
-desktop   · electron, react, typescript, wpf, pyqt5, tailwind css
+systems   · rust, c++, c# (.net 9), win32 api, nt native, input hooks, low-level timing
+desktop   · slint, egui, electron, react, typescript, wpf, pyqt5, tailwind css
 audio/ai  · web audio api, ffmpeg, modern ai models, agentic workflows
 ```
 
