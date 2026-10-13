@@ -6,7 +6,7 @@
 
 `windows` · `rust` · `c++` · `c#` · `electron` · `typescript` · `python` · `ai-augmented`
 
-<a href="https://zen-zakura.pages.dev">zen zakura</a> · [zen gamma](https://github.com/prfctcondition/zen-gamma) · [league unlagged](https://github.com/prfctcondition/league-unlagged) · [otofy](https://github.com/prfctcondition/otofy) · <a href="#craft">projects</a> · <a href="#manifesto">manifesto</a> · <a href="https://ko-fi.com/prfctcondition">support</a>
+[otofy](https://github.com/prfctcondition/otofy) · [zen gamma](https://github.com/prfctcondition/zen-gamma) · [league unlagged](https://github.com/prfctcondition/league-unlagged) · <a href="https://zen-zakura.pages.dev">zen zakura</a> · <a href="#craft">projects</a> · <a href="#manifesto">manifesto</a> · <a href="https://ko-fi.com/prfctcondition">support</a>
 
 </div>
 
@@ -34,10 +34,10 @@ an interconnected ecosystem of focused, zero-bloat windows software engineered f
 
 | project | stack | essence & key highlight |
 | :--- | :--- | :--- |
+| [otofy](https://github.com/prfctcondition/otofy) | `electron` `react` `ts` `web audio` | privacy-first yt/sc streaming with bypass protocol, 10-band hardware eq & sub-second synced lyrics |
 | [zen gamma](https://github.com/prfctcondition/zen-gamma) | `rust` `slint` `win32 gdi` | zero-overhead hardware LUT display calibration, per-channel RGB split gamma & active-tab hotkeys |
 | [league unlagged](https://github.com/prfctcondition/league-unlagged) | `rust` `egui` `win32 kernel` | hardware-adaptive CPU core isolation, SMT thread partitioning & PCIe MSI interrupt offloading |
 | [zen zakura](https://zen-zakura.pages.dev) · [v1](https://github.com/prfctcondition/zen-zakura-macro) | `c#` `c++` `win32` `wpf` | low-level macro engine; v1 open for study, now evolved into standalone saas with upcoming payments |
-| [otofy](https://github.com/prfctcondition/otofy) | `electron` `react` `ts` `web audio` | privacy-first yt/sc streaming with bypass protocol, 10-band hardware eq & sub-second synced lyrics |
 
 ---
 
